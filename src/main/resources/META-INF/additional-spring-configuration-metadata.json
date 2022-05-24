@@ -1,0 +1,87 @@
+{"properties": [
+  {
+    "name": "bezkoder.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'bezkoder.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtExpirationMs'"
+  },
+  {
+    "name": "akatzuki.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtSecret'"
+  },
+  {
+    "name": "akatzuki.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtExpirationMs'"
+  },
+  {
+    "name": "akatzuki.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtExpirationMs'"
+  },
+  {
+    "name": "akatzuki.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'akatzuki.app.jwtExpirationMs'"
+  },
+  {
+    "name": "cloud.aws.credentials.access-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.credentials.access-key'"
+  },
+  {
+    "name": "cloud.aws.credentials.secret-key",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.credentials.secret-key'"
+  },
+  {
+    "name": "cloud.aws.region.static",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.region.static'"
+  },
+  {
+    "name": "cloud.aws.stack.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'cloud.aws.stack.auto'"
+  },
+  {
+    "name": "application.bucket.name",
+    "type": "java.lang.String",
+    "description": "A description for 'application.bucket.name'"
+  }
+]}
